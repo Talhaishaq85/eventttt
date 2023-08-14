@@ -1,0 +1,15 @@
+.sup_terms{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: wheat;
+    border-radius: 2rem;
+    color: black;
+    margin: 5rem 5rem;
+    padding: 2rem 1rem;
+    
+    h2{
+        padding: 1rem 1rem;
+    }
+}

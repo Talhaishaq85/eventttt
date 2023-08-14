@@ -1,0 +1,7 @@
+.admin_dash{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:7rem 7rem
+}
